@@ -44,5 +44,5 @@ const char linux_banner[] =
 
 const char linux_proc_banner[] =
 	"%s version %s"
-	" (Infamous_kernel_3.2)"
+	" (Mackay_ICS_2014_1.0)"
 	" (" LINUX_COMPILER ") %s\n";
